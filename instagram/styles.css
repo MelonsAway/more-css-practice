@@ -2,3 +2,12 @@
 .nav {
    float: left;
      }
+.nolist {
+   list-style-type: none;
+        }
+.navheader {
+   color: lightgrey;
+           }
+.main {
+   margin-left: 15%;
+      }
